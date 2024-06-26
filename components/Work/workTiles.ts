@@ -31,7 +31,7 @@ export const workTiles: WorkTile[] = [
     description: `I built`,
     title: 'CareerConnect',
     image: {
-      src: '/static/images/project/careerconnect  .png',
+      src: '/static/images/project/careerconnect.png',
       width: 600,
       height: 717,
     },
